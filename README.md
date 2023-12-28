@@ -32,7 +32,7 @@ npm install
 - Get your API key from News API.
 - Create a **.env.local** file in the project root and add your API key:
 ```
-REACT_APP_NEWS_API_KEY=your-news-api-key
+REACT_APP_NEWS_API=your-news-api-key
 ```
 5. Start the application:
 ```
